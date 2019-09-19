@@ -8,7 +8,7 @@ module.exports = {
     siteTitleAlt: `MXW Portfolio`,
     siteHeadline: `MXW Portfolio`,
     siteUrl: `https://mxw-portfolio.netlify.com/`,
-    siteDescription: `Check out my portfolio, yeah?s`,
+    siteDescription: `Check out my portfolio, yeah?`,
     siteLanguage: `en`,
     siteImage: `/banner2.jpg`
   },
