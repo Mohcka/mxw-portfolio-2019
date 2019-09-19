@@ -4,7 +4,13 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `MXW Portfolio`
+    siteTitle: `MXW`,
+    siteTitleAlt: `MXW Portfolio`,
+    siteHeadline: `MXW Portfolio`,
+    siteUrl: `https://mxw-portfolio.netlify.com/`,
+    siteDescription: `Check out my portfolio, yeah?s`,
+    siteLanguage: `en`,
+    siteImage: `/banner2.jpg`
   },
   plugins: [
     {
